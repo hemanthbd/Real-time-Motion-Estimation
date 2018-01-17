@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EEE508OpencvTutorial</string>
+    <string name="Names"><![CDATA[Hello World from Hemanth & Satyajit!]]></string>
+    <string name="word">Welcome to our app!</string>
+    <string name="words">X: 0, Y: 0</string>
+    <string name="color">Color:</string>
+    <string name="String1"><![CDATA[Welcome to the DIVP App by Hemanth & Satyajith!]]></string>
+    <string name="Face"><![CDATA[Face Detection & Matching]]></string>
+    <string name="Color">Touch Color</string>
+    <string name="test">test</string>
+    <string name="lol">Main5Activity</string>
+</resources>
